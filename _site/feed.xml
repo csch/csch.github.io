@@ -6,8 +6,8 @@
 </description>
     <link>http://csch.github.io/</link>
     <atom:link href="http://csch.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 May 2015 13:22:24 +0100</pubDate>
-    <lastBuildDate>Fri, 08 May 2015 13:22:24 +0100</lastBuildDate>
+    <pubDate>Fri, 08 May 2015 13:25:38 +0100</pubDate>
+    <lastBuildDate>Fri, 08 May 2015 13:25:38 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -15,7 +15,7 @@
         <description>&lt;p&gt;&lt;em&gt;We are a two man show and makers of &lt;a href=&quot;http://caato.de/en/products/time-tracker-for-mac.html&quot;&gt;Caato Time Tracker for Mac&lt;/a&gt; which is currently available on the Mac App Store. In summer 2014 we started working on our new product &lt;a href=&quot;http://caato.de/en/products/caato-time-tracker-plus.html&quot;&gt;Caato Time Tracker+&lt;/a&gt; that we develop for Mac, iPhone and Apple Watch. Since last year there are a few things I’ve learned and I want to share here.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;mockups&quot;&gt;Mockups&lt;/h1&gt;
-&lt;p&gt;We started the development of Caato Time Tracker+ by making detailed mockups for both, the iPad and Mac version, and for each planned feature and screen of the app. Each day we would discuss and refine the mockups. Over and over again for both platforms and all screens. I think, in the end, we spent 3 weeks just doing mockups.&lt;/p&gt;
+&lt;p&gt;We started the development of &lt;a href=&quot;http://caato.de/en/products/caato-time-tracker-plus.html&quot;&gt;Caato Time Tracker+&lt;/a&gt; by making detailed mockups for both, the iPad and Mac version, and for each planned feature and screen of the app. Each day we would discuss and refine the mockups. Over and over again for both platforms and all screens. I think, in the end, we spent 3 weeks just doing mockups.&lt;/p&gt;
 
 &lt;h1 id=&quot;building-the-app&quot;&gt;Building the app&lt;/h1&gt;
 &lt;p&gt;Once we were happy with the mockups, we started developing the actual app. It turned out that a lot of the features we envisioned in the mockups didn’t really work and needed to be changed. In addition, we found that we wouldn’t be able to ship everything we had planned. So we made the decision to postpone developing an iPad version for the time being, as well as most of the more advanced features we had outlined in the mockups. However, we still wanted to integrate one of our most precious features: a timeline allowing the user to see when time was tracked during the day.&lt;/p&gt;
