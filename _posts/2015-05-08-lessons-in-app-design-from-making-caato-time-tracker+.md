@@ -16,7 +16,7 @@ Once we were happy with the mockups, we started developing the actual app. It tu
 <br>
 ![Timeline]({{ site.baseurl }}/assets/tt+_timeline.jpg)
 <p class='image-description'>
-<em>Caato Time Tracker+ with Timeline feature. Users had to create a client, a project and a task to start time tracking.</em>
+<i>Caato Time Tracker+ with Timeline feature. Users had to create a client, a project and a task to start time tracking.</i>
 </p><br><br>
 
 # Showing the app to users
