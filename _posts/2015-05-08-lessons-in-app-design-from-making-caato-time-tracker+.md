@@ -15,8 +15,8 @@ Once we were happy with the mockups, we started developing the actual app. It tu
 
 <br>
 ![Timeline]({{ site.baseurl }}/assets/tt+_timeline.jpg)
-<p class='image-description' markdown='1'>
-*Caato Time Tracker+ with Timeline feature. Users had to create a client, a project and a task to start time tracking.*
+<p class='image-description'>
+<em>Caato Time Tracker+ with Timeline feature. Users had to create a client, a project and a task to start time tracking.</em>
 </p><br>
 
 # Showing the app to users
@@ -24,8 +24,8 @@ Once the timeline feature was mostly done, we shared the app with 5 people. As w
 
 <br>
 ![Timeline]({{ site.baseurl }}/assets/tt+_easy_en.jpg)
-<p class='image-description' markdown='1'>
-*Current design of Caato Time Tracker+. Users can start tracking time by clicking on the Play button in the top left corner.*
+<p class='image-description'>
+<em>Current design of Caato Time Tracker+. Users can start tracking time by clicking on the Play button in the top left corner.</em>
 </p><br>
 
 # What I learned from all this
