@@ -25,7 +25,8 @@ article p {
   color: black; }
 
 p.image-description {
-  color: gray; }
+  color: gray;
+  font-style: italic; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm

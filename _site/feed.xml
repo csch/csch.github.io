@@ -6,8 +6,8 @@
 </description>
     <link>http://csch.github.io/</link>
     <atom:link href="http://csch.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 May 2015 13:44:56 +0100</pubDate>
-    <lastBuildDate>Fri, 08 May 2015 13:44:56 +0100</lastBuildDate>
+    <pubDate>Fri, 08 May 2015 13:53:37 +0100</pubDate>
+    <lastBuildDate>Fri, 08 May 2015 13:53:37 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -21,9 +21,9 @@
 &lt;p&gt;Once we were happy with the mockups, we started developing the actual app. It turned out that a lot of the features we envisioned in the mockups didn’t really work and needed to be changed. In addition, we found that we wouldn’t be able to ship everything we had planned. So we made the decision to postpone developing an iPad version for the time being, as well as most of the more advanced features we had outlined in the mockups. However, we still wanted to integrate one of our most precious features: a timeline allowing the user to see when time was tracked during the day.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/tt+_timeline.jpg&quot; alt=&quot;Timeline&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/tt+_timeline.jpg&quot; alt=&quot;Complicated&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;image-description&quot;&gt;
-&lt;i&gt;Caato Time Tracker+ with Timeline feature. Users had to create a client, a project and a task to start time tracking.&lt;/i&gt;
+Caato Time Tracker+ with Timeline feature. Users had to create a client, a project and a task to start time tracking.
 &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -31,9 +31,9 @@
 &lt;p&gt;Once the timeline feature was mostly done, we shared the app with 5 people. As we got more and more feedback, we realized that the timeline feature was interesting and helpful, but that our app was lacking a basic overview to see &lt;em&gt;on which days&lt;/em&gt; time was actually tracked. We realized that we had started with a more advanced feature without covering the basics. As a result, we removed the timeline feature for now and started working on a basic “reporting” overview for tracked time entries. After sharing the next version of the app with about 30 additional users, we gained another, even more important, insight: users found that it was too complicated to actually start tracking time. Well, that’s what a time tracker is all about, isn’t it?&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/tt+_easy_en.jpg&quot; alt=&quot;Timeline&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/tt+_easy_en.jpg&quot; alt=&quot;Simpler&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;image-description&quot;&gt;
-&lt;em&gt;Current design of Caato Time Tracker+. Users can start tracking time by clicking on the Play button in the top left corner.&lt;/em&gt;
+Current design of Caato Time Tracker+. Users can start tracking time by clicking on the Play button in the top left corner.
 &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
