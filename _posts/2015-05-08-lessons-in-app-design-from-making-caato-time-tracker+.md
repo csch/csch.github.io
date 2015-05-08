@@ -13,20 +13,22 @@ We started the development of [Caato Time Tracker+](http://caato.de/en/products/
 # Building the app
 Once we were happy with the mockups, we started developing the actual app. It turned out that a lot of the features we envisioned in the mockups didn't really work and needed to be changed. In addition, we found that we wouldn't be able to ship everything we had planned. So we made the decision to postpone developing an iPad version for the time being, as well as most of the more advanced features we had outlined in the mockups. However, we still wanted to integrate one of our most precious features: a timeline allowing the user to see when time was tracked during the day.
 
-<br>
 ![Complicated]({{ site.baseurl }}/assets/tt+_timeline.jpg)
+
 <p class="image-description">
 Caato Time Tracker+ with Timeline feature. Users had to create a client, a project and a task to start time tracking.
-</p><br><br>
+</p>
+<br>
 
 # Showing the app to users
 Once the timeline feature was mostly done, we shared the app with 5 people. As we got more and more feedback, we realized that the timeline feature was interesting and helpful, but that our app was lacking a basic overview to see *on which days* time was actually tracked. We realized that we had started with a more advanced feature without covering the basics. As a result, we removed the timeline feature for now and started working on a basic "reporting" overview for tracked time entries. After sharing the next version of the app with about 30 additional users, we gained another, even more important, insight: users found that it was too complicated to actually start tracking time. Well, that's what a time tracker is all about, isn't it? 
 
-<br>
 ![Simpler]({{ site.baseurl }}/assets/tt+_easy_en.jpg)
+
 <p class="image-description">
 Current design of Caato Time Tracker+. Users can start tracking time by clicking on the Play button in the top left corner.
-</p><br>
+</p>
+<br>
 
 # What I learned from all this
 
